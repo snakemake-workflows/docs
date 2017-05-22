@@ -33,7 +33,7 @@ Contributing is easy:
 ### Guidelines
 
 1. A workflow repository shall consist of one Snakemake workflow.
-2. The structure of the workflow should follow our [skeleton](https://github.com/snakemake-workflows/skeleton).
+2. The structure of the workflow should follow our [skeleton](https://github.com/snakemake-workflows/cookiecutter-snakemake-workflow).
 3. Whenever possible, [Snakemake wrappers](https://snakemake-wrappers.readthedocs.io) should be used.
 4. The workflow should be configurable via a well documented YAML-based configuration file and (when necessary) a sample sheet.
 5. The workflow has to define an (integration-style) test case that is configured via the `.travis.yml` file in the skeleton.
