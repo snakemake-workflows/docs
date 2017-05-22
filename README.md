@@ -27,4 +27,5 @@ Contributing is easy:
 
 1. Join the team
 2. Create a new repository for your workflow
+3. Ensure that your workflow meets our [guidelines](GUIDELINES.md).
 3. Request a review [here]().
