@@ -13,6 +13,7 @@ The following workflows have undergone a strict review and quality control proce
 
 | Workflow | Domain | Authors |
 | -------- | ------ | ------- |
+| [rna-seq-star-deseq2](https://github.com/snakemake-workflows/rna-seq-star-deseq2) | RNA-seq | Johannes Köster (https://koesterlab.github.io) |
 
 
 ## Documentation
