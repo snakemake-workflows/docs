@@ -29,12 +29,12 @@ Contributing is easy:
 1. Join the team
 2. Create a new repository for your workflow
 3. Ensure that your workflow meets our guidelines.
-3. Request a review [here]().
+3. Request a review [here](https://github.com/snakemake-workflows/docs/issues).
 
 ### Guidelines
 
 1. A workflow repository shall consist of one Snakemake workflow.
 2. The structure of the workflow should follow our [template](https://github.com/snakemake-workflows/cookiecutter-snakemake-workflow). You can create a new workflow with [cookiecutter](https://github.com/audreyr/cookiecutter) via `cookiecutter gh:snakemake-workflows/cookiecutter-snakemake-workflow`.
 3. Whenever possible, [Snakemake wrappers](https://snakemake-wrappers.readthedocs.io) should be used.
-4. The workflow should be configurable via a well documented YAML-based configuration file and (when necessary) a sample sheet.
+4. The workflow should be configurable via a well documented YAML-based configuration file and (when necessary) a sample and a unit sheet (see [here](https://github.com/snakemake-workflows/rna-seq-star-deseq2) for an example).
 5. The workflow has to define an (integration-style) test case that is configured via the `.travis.yml` file in the skeleton.
