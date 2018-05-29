@@ -15,6 +15,7 @@ The following workflows have undergone a strict review and quality control proce
 | -------- | ------ | ------- |
 | [rna-seq-star-deseq2](https://github.com/snakemake-workflows/rna-seq-star-deseq2) | RNA-seq | Johannes Köster (https://koesterlab.github.io) |
 | [accel-amplicon-trimming](https://github.com/snakemake-workflows/accel-amplicon-trimming) | Accel Amplicon | Patrik Smeds (Clinical Genomics Uppsala) |
+| [single-cell-rna-seq](https://github.com/snakemake-workflows/single-cell-rna-seq) | Single cell RNA-seq | Johannes Köster (https://koesterlab.github.io) |
 
 ## Documentation
 
