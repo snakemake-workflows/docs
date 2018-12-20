@@ -17,7 +17,7 @@ The following workflows have undergone a strict review and quality control proce
 | [dna-seq-gatk-variant-calling](https://github.com/snakemake-workflows/dna-seq-gatk-variant-calling) | DNA-seq | Johannes Köster (https://koesterlab.github.io)
 | [accel-amplicon-trimming](https://github.com/snakemake-workflows/accel-amplicon-trimming) | Accel Amplicon | Patrik Smeds (Clinical Genomics Uppsala) |
 | [single-cell-rna-seq](https://github.com/snakemake-workflows/single-cell-rna-seq) | Single cell RNA-seq | Johannes Köster (https://koesterlab.github.io) |
-| [single-cell-drop-seq](https://github.com/snakemake-workflows/single-cell-drop-seq) | Single cell drop-seq analysis | Patrick Roelli (https://github.com/Hoohm) |
+| [single-cell-drop-seq](https://github.com/snakemake-workflows/single-cell-drop-seq) | Single cell drop-seq analysis | Patrick Roelli (Swiss Institute of Bioinformatics) |
 
 ## Documentation
 
