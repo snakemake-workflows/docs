@@ -14,10 +14,12 @@ The following workflows have undergone a strict review and quality control proce
 | Workflow | Domain | Authors |
 | -------- | ------ | ------- |
 | [rna-seq-star-deseq2](https://github.com/snakemake-workflows/rna-seq-star-deseq2) | RNA-seq | Johannes Köster (https://koesterlab.github.io) |
+| [rna-seq-kallisto-sleuth](https://github.com/snakemake-workflows/rna-seq-kallisto-sleuth) | RNA-seq | Johannes Köster (https://koesterlab.github.io) |
 | [dna-seq-gatk-variant-calling](https://github.com/snakemake-workflows/dna-seq-gatk-variant-calling) | DNA-seq | Johannes Köster (https://koesterlab.github.io)
 | [accel-amplicon-trimming](https://github.com/snakemake-workflows/accel-amplicon-trimming) | Accel Amplicon | Patrik Smeds (Clinical Genomics Uppsala) |
 | [single-cell-rna-seq](https://github.com/snakemake-workflows/single-cell-rna-seq) | Single cell RNA-seq | Johannes Köster (https://koesterlab.github.io) |
 | [single-cell-drop-seq](https://github.com/snakemake-workflows/single-cell-drop-seq) | Single cell RNA-seq | Patrick Roelli (TU Munich, Swiss Institute of Bioinformatics) |
+
 
 ## Documentation
 
