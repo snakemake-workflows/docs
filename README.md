@@ -44,3 +44,4 @@ Contributing is easy:
 3. Whenever possible, [Snakemake wrappers](https://snakemake-wrappers.readthedocs.io) should be used.
 4. The workflow should be configurable via a well documented YAML-based configuration file and (when necessary) a sample and a unit sheet (see [here](https://github.com/snakemake-workflows/rna-seq-star-deseq2) for an example).
 5. The workflow has to define an (integration-style) test case that is configured via the `.travis.yml` file in the skeleton.
+6. For inclusion in the [snakemake workflow catalog](https://snakemake.github.io/snakemake-workflow-catalog/), further follow [the catalog inclusion requirements](https://snakemake.github.io/snakemake-workflow-catalog?rules=true).
